@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/SDZZGNDRC/go-okx/rest/api"
+	"github.com/wangbaojin/go-okx/rest/api"
 )
 
 func NewGetProjectCurrency(param *GetProjectCurrencyParam) (api.IRequest, api.IResponse) {

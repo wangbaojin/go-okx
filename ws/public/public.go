@@ -1,7 +1,7 @@
 package public
 
 import (
-	"github.com/SDZZGNDRC/go-okx/ws"
+	"github.com/wangbaojin/go-okx/ws"
 	"github.com/gorilla/websocket"
 )
 

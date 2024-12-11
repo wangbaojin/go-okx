@@ -1,6 +1,6 @@
 package custom
 
-import "github.com/SDZZGNDRC/go-okx/rest/api"
+import "github.com/wangbaojin/go-okx/rest/api"
 
 func NewGetDualCoin(param *GetDualCoinParam) (api.IRequest, api.IResponse) {
 	return &api.Request{

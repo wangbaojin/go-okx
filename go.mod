@@ -1,4 +1,4 @@
-module github.com/SDZZGNDRC/go-okx
+module github.com/wangbaojin/go-okx
 
 go 1.17
 

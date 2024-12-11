@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SDZZGNDRC/go-okx/ws"
-	"github.com/SDZZGNDRC/go-okx/ws/public"
+	"github.com/wangbaojin/go-okx/ws"
+	"github.com/wangbaojin/go-okx/ws/public"
 )
 
 func TestBooks(t *testing.T) {
