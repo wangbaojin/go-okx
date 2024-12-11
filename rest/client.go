@@ -21,6 +21,7 @@ var (
 		"/api/v5/account/balance",
 		"/api/v5/account/config",
 		"/api/v5/account/positions",
+		"/api/v5/account/trade-fee",
 		"/api/v5/finance/staking-defi/orders-active",
 		"/api/v5/finance/staking-defi/offers",
 		"/api/v5/trade/orders-pending",
